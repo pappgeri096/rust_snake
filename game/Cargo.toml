@@ -1,0 +1,9 @@
+[package]
+name = "game"
+version = "0.1.0"
+authors = ["pappgeri096 <pappgergo096@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+piston_window = "0.89.0"

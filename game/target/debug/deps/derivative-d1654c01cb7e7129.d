@@ -1,0 +1,15 @@
+/home/papp/codecool/rust_projects/snake/game/target/debug/deps/libderivative-d1654c01cb7e7129.so: /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/lib.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/ast.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/attr.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/bound.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/clone.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/cmp.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/debug.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/default.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/hash.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/matcher.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/utils.rs
+
+/home/papp/codecool/rust_projects/snake/game/target/debug/deps/derivative-d1654c01cb7e7129.d: /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/lib.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/ast.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/attr.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/bound.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/clone.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/cmp.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/debug.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/default.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/hash.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/matcher.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/utils.rs
+
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/lib.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/ast.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/attr.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/bound.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/clone.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/cmp.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/debug.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/default.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/hash.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/matcher.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-1.0.2/src/utils.rs:

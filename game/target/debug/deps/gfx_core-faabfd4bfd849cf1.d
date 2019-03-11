@@ -1,0 +1,16 @@
+/home/papp/codecool/rust_projects/snake/game/target/debug/deps/libgfx_core-faabfd4bfd849cf1.rlib: /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/lib.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/buffer.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/command.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/dummy.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/factory.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/format.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/handle.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/mapping.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/memory.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/pso.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/shade.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/texture.rs
+
+/home/papp/codecool/rust_projects/snake/game/target/debug/deps/gfx_core-faabfd4bfd849cf1.d: /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/lib.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/buffer.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/command.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/dummy.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/factory.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/format.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/handle.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/mapping.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/memory.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/pso.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/shade.rs /home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/texture.rs
+
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/lib.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/buffer.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/command.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/dummy.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/factory.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/format.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/handle.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/mapping.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/memory.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/pso.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/shade.rs:
+/home/papp/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_core-0.8.3/src/texture.rs:

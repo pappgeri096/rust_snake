@@ -1,0 +1,1 @@
+{"rustc":14715343205281380114,"features":"[\"native_lib\", \"wayland-sys\"]","target":11780541363723872280,"profile":11870183705523825133,"path":4114959688269528739,"deps":[["nix v0.12.0","nix",2004248470894613281],["wayland-sys v0.21.11","wayland_sys",3615317049833460018]],"local":[{"Precalculated":"0.21.11"}],"rustflags":[],"edition":"Edition2015"}
